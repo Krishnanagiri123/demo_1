@@ -42,7 +42,7 @@ changes comes in two steps in local files(git)<br>
 ## Configuring git account.
     --> git config --global user.name "user_name" 
     -->git config --global user.email "user_email"
-............................................
+<br>............................................<br>
 To view list of all users.<br>
    -->git config --list <br>
 
