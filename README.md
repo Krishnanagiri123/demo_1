@@ -40,8 +40,8 @@ changes comes in two steps in local files(git)<br>
 
 
 ## Configuring git account.
-    --> git config --global user.name "user_name" <br>
-    -->git config --global user.email "user_email" <br>
+    --> git config --global user.name "user_name" 
+    -->git config --global user.email "user_email"
 ............................................
 To view list of all users.<br>
    -->git config --list <br>
@@ -54,24 +54,24 @@ To view list of all users.<br>
    --> git status  
 
     1. If any changes have been done to the cloned file this will show the modifications and 
-           (M)  intimate us to stage and commit changes.<br>
+           (M)  intimate us to stage and commit changes.
 
     2. If created any new file in the local directory this will flag that newly created file as 
-          untracked file (U)<br>
+          untracked file (U)
 
-      modified    === M (made changes but not added or commited)<br>
-      untracked   === U (newly added files, not added or commited)<br>
-      staged      ===   (Changes were added but not commited)<br>
-      unmodified  ===   (Changes were added and commited)<br>
+      modified    === M (made changes but not added or commited)
+      untracked   === U (newly added files, not added or commited)
+      staged      ===   (Changes were added but not commited)
+      unmodified  ===   (Changes were added and commited)
 
 
 ## Add and Commit.
-    1. add     = conforming the changes made.{To conform all changes:(git add.)}<br>
-    2. commit  = saving the changes.(git commit -m "message")<br>
+    1. add     = conforming the changes made.{To conform all changes:(git add.)}
+    2. commit  = saving the changes.(git commit -m "message")
 
 ## PUSH<br>
-    used to upload local repo content to remote repo<br>
-    --> git push origin main <br>
+    used to upload local repo content to remote repo
+    --> git push origin main 
 
   ????????? 
   origin = every repository in github is remote repo.<br>
