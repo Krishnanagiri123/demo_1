@@ -1,6 +1,5 @@
 <b>demo_1</b><br>
-This is my first git_hub file.<br>
-<br>
+
 <h3>Author : Krishna Nagiri</h3><br>
 
 <H2>GIT AND GITHUB</H2><br>
